@@ -1,0 +1,3 @@
+No frills or validation -- just clean reusable front-end markup.
+
+Simple form adjusts to fit the width of its parent container making it easy to add to any layout. Input fields will stretch the width of the container (minus padding) and sections can be organized into fieldsets to add a comfortable amount of spacing between elements. Checkboxes and radio buttons are formatted three per row. You can use JavaScript to append error messages after required input fields a p tags with the class "error".
